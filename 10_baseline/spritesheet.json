@@ -1,0 +1,11 @@
+[{"name":"L1E","x":0,"y":0,"width":64,"height":64},
+ {"name":"L2E","x":0,"y":65,"width":64,"height":64},
+ {"name":"L3E","x":65,"y":0,"width":64,"height":64},
+ {"name":"L4E","x":65,"y":65,"width":64,"height":64},
+ {"name":"L5E","x":0,"y":130,"width":64,"height":64},
+ {"name":"L6E","x":65,"y":130,"width":64,"height":64},
+ {"name":"L7E","x":130,"y":0,"width":64,"height":64},
+ {"name":"L8E","x":130,"y":65,"width":64,"height":64},
+ {"name":"L9E","x":130,"y":130,"width":64,"height":64},
+ {"name":"L10E","x":0,"y":195,"width":64,"height":64},
+ {"name":"L11E","x":65,"y":195,"width":64,"height":64}]
